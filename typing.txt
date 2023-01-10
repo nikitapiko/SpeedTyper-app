@@ -1,0 +1,30 @@
+SpeedTyper
+
+with our without GUI
+
+pool of random texts
+
+field with text being shown on the screen
+
+field where you have to input the required text
+timer for 1, 3 or 5 minutes
+
+Start button
+Reset button
+
+Words per minute
+
+Accuracy in %
+
+
+* Checking for mistakes *
+His mother doesn't have to ask him again.
+His moter doesnt haveto askk him again.
+
+4 mistakes
+
+take the correct string and the typed string
+compare those
+how?
+
+each word with a mistake

@@ -1,0 +1,21 @@
+random_texts = [
+    "The red line moved across the page. With each millimeter it advanced forward, something changed in the room. The actual change taking place was difficult to perceive, but the change was real. The red line continued relentlessly across the page and the room would never be the same.",
+    "The irony of the situation hadn't escaped her. She had taken years to sculpt the perfect persona with the perfect look that she shared on Instagram. She knew her hundreds of thousands of followers envied that life she showed and stayed engaged with her because they wanted that life too. The truth was that she wanted the perfect life she portrayed more than any of her fans. The fact was that despite all the perfection she shared on social media, her life was actually more of a mess than most.",
+    "What were they eating? It didn't taste like anything she had ever eaten before and although she was famished, she didn't dare ask. She knew the answer would be one she didn't want to hear.",
+    "My pincher collar is snapped on. Then comes the electric zapper collar. Finally, my purple at-home collar is taken off and I know I’m going for a walk to the dog park. I’m so excited to see my friends. I hope Spike or Thunder are there already. They're the most fun to chase and tumble with. My human is pretty strict with me. I’m only allowed on the grass and not on the sidewalks. I think she’s afraid I’m going to jump on the other humans. I don’t understand why everyone else gets to jump on the benches and run wild on the sidewalks. They don’t listen to their humans. I know I could ignore mine but if I do she may zap me and it’s just not worth it. She probably wouldn’t let me back at the dog park if I didn’t listen to her. I just love the dog park.",
+    "He had done everything right. There had been no mistakes throughout the entire process. It had been perfection and he knew it without a doubt, but the results still stared back at him with the fact that he had lost.",
+    "There were only two ways to get out of this mess if they all worked together. The problem was that neither was all that appealing. One would likely cause everyone a huge amount of physical pain while the other would likely end up with everyone in jail. In Sam's mind, there was only one thing to do. He threw everyone else under the bus and he secretly sprinted away leaving the others to take the fall without him.",
+    "Matt told her to reach for the stars, but Veronica thought it was the most ridiculous advice she'd ever received. Sure, it had been well-meaning when he said it, but she didn't understand why anyone would want to suggest something that would literally kill you if you actually managed to achieve it.",
+    "The bush began to shake. Brad couldn't see what was causing it to shake, but he didn't care. he had a pretty good idea about what was going on and what was happening. He was so confident that he approached the bush carefree and with a smile on his face. That all changed the instant he realized what was actually behind the bush.",
+    "Billy always listens to his mother. He always does what she says. If his mother says, 'Brush your teeth,' Billy brushes his teeth. If his mother says, 'Go to bed,' Billy goes to bed. Billy is a very good boy. A good boy listens to his mother. His mother doesn't have to ask him again. She asks him to do something one time, and she doesn't ask again. Billy is a good boy. He does what his mother asks the first time. She doesn't have to ask again. She tells Billy, 'You are my best child.' Of course Billy is her best child. Billy is her only child.",
+    "Nancy wants to live a long time. She wants to live for one hundred years. She is five years old now. She wants to live 95 more years. Then she will be 100. Her father is 30 years old. He wants to live a long time, too. He wants to live for one hundred years. He wants to live for 70 more years. 'Daddy, we will grow old together, okay?' Nancy said to her father. 'Yes, honey, we will grow old together,' he said to Nancy. Then Nancy smiled. She gave her daddy a big hug."
+]
+
+# for text in random_texts:
+#     seperate_words = text.split(" ")
+#     print(seperate_words)
+#     print(len(seperate_words))
+#     count = 0
+#     for word in seperate_words:
+#         count += len(word)
+#     print(count)
